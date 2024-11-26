@@ -1,9 +1,14 @@
+Explaining for solving Problem 1
+https://drive.google.com/file/d/1oLhGhazLwnsBYIClVU0DI5O6s_jv0TWb/view?usp=drivesdk
 
+Explaining for solving Problem 2
+https://drive.google.com/file/d/1oLi4DGhYnvF6TsYGSZmqnIKF0kcsrbwf/view?usp=drivesdk
 
-
+Explaining for solving Problem 3
+https://drive.google.com/file/d/1oO48ZThRtFIecGKnoVQKh5w20r_d16qj/view?usp=drivesdk
 
 # Daily Steps Tracker
-
+https://drive.google.com/file/d/1oLhGhazLwnsBYIClVU0DI5O6s_jv0TWb/view?usp=drivesdk
 ## Description
 The "Daily Steps Tracker" program processes the number of steps taken each day in a month. It performs the following tasks:
 1. Accepts the number of steps taken each day in the month as numbers separated by spaces.
